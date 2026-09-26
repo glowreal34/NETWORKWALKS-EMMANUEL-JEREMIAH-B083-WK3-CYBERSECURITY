@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 NetworkWalks Cybersecurity Internship — Week 3
+# 🔐 NetworkWalks Cybersecurity Internship: Week 3
 
 ## Password Cracking & Password Security
 
@@ -29,8 +29,8 @@ The week's practical work focused on **password cracking and password security**
 
 Two project modules were completed using different approaches:
 
-- **W3-PM1 — Password Cracking with John the Ripper (JTR)**
-- **W3-PM2 — Password Cracking with NetworkWalks Tools**
+- **W3-PM1: Password Cracking with John the Ripper (JTR)**
+- **W3-PM2: Password Cracking with NetworkWalks Tools**
 
 The first module involved using **John the Ripper and Johnny** to process and crack a password-protected PDF hash. The second module demonstrated a browser-based approach using the **NetworkWalks Hash Calculator and Password Cracker**.
 
@@ -58,7 +58,7 @@ The objectives of the Week 3 practical exercises were to:
 
 ## 🧪 Week 3 Project Modules
 
-### 🔹 W3-PM1 — Password Cracking with John the Ripper
+### 🔹 W3-PM1: Password Cracking with John the Ripper
 
 This module focused on recovering the password of a protected PDF using **John the Ripper (JTR)** together with its graphical interface, **Johnny**, on Windows.
 
@@ -74,7 +74,7 @@ A significant troubleshooting scenario was also encountered during this module w
 
 ---
 
-### 🔹 W3-PM2 — Password Cracking with NetworkWalks Tools
+### 🔹 W3-PM2: Password Cracking with NetworkWalks Tools
 
 This module explored password recovery through the browser-based security tools provided by NetworkWalks.
 
@@ -280,7 +280,7 @@ Detailed procedures, screenshots, observations, results, troubleshooting, and te
 
 ### 📄 Project Module 1
 
-**[W3-PM1 — Password Cracking with John the Ripper](W3-PM1-PASSWORD-CRACKING-WITH-JTR.md)**
+**[W3-PM1: Password Cracking with John the Ripper](W3-PM1-PASSWORD-CRACKING-WITH-JTR.md)**
 
 Covers:
 
@@ -297,7 +297,7 @@ Covers:
 
 ### 📄 Project Module 2
 
-**[W3-PM2 — Password Cracking with NetworkWalks Tools](W3-PM2-PASSWORD-CRACKING-WITH-NETWORKWALKS-TOOLS.md)**
+**[W3-PM2: Password Cracking with NetworkWalks Tools](W3-PM2-PASSWORD-CRACKING-WITH-NETWORKWALKS-TOOLS.md)**
 
 Covers:
 
