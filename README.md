@@ -265,30 +265,12 @@ They should only be used against systems, accounts, files, or resources for whic
 
 ## 📂 Repository Structure
 
-```text
-NETWORKWALKS-EMMANUEL-JEREMIAH-B083-WK3-CYBERSECURITY/
-│
-├── README.md
-│
-├── W3-PM1-PASSWORD-CRACKING-WITH-JTR.md
-├── W3-PM2-PASSWORD-CRACKING-WITH-NETWORKWALKS-TOOLS.md
-│
-└── screenshots/
-    │
-    ├── W3-PM1-John-Missing-DLL-Error.png
-    ├── W3-PM1-Johnny-John-Executable-Configuration.png
-    ├── W3-PM1-PDF-Hash-Extraction.png
-    ├── W3-PM1-Password-Recovered-with-Johnny.png
-    ├── W3-PM1-Protected-PDF-Password-Prompt.png
-    ├── W3-PM1-PDF-Successfully-Unlocked.png
-    │
-    ├── W3-PM2-PDF-Hash-Extracted.png
-    ├── W3-PM2-PDF-Hash-Loaded-in-Password-Cracker.png
-    ├── W3-PM2-Password-Cracking-in-Progress.png
-    ├── W3-PM2-Password-Successfully-Cracked.png
-    ├── W3-PM2-Protected-PDF-Password-Prompt.png
-    └── W3-PM2-PDF-Successfully-Unlocked.png
-```
+| File / Directory | Description |
+|---|---|
+| `README.md` | Main Week 3 project overview and navigation |
+| `W3-PM1-PASSWORD-CRACKING-WITH-JTR.md` | Complete documentation for Project Module 1 — Password Cracking with John the Ripper and Johnny |
+| `W3-PM2-PASSWORD-CRACKING-WITH-NETWORKWALKS-TOOLS.md` | Complete documentation for Project Module 2 — Password Cracking with NetworkWalks Tools |
+| `screenshots/` | Contains all screenshot evidence captured during W3-PM1 and W3-PM2 |
 
 ---
 
